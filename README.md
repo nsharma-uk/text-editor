@@ -19,7 +19,7 @@ Deployed Heroku page: [here]()
 <details>
 <summary>Deployed page</summary>
 
-![ ]()
+![jate ](./other/jate.png)
 
 </details>
 
