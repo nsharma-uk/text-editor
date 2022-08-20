@@ -1,9 +1,9 @@
-# text-editor
+# PWA Text Editor ![MIT license](https://img.shields.io/badge/MIT-License-green)
 
 A text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
 Github repo: [here](https://github.com/nsharma-uk/text-editor)
-Deployed Heroku page: [here]()
+Deployed Heroku page: [here](https://damp-wildwood-54471.herokuapp.com/)
 
 ## Technologies
 
@@ -60,3 +60,8 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+
+## Contact
+
+Please contact me on my email: [email](nsharmauk711@gmail.com)
+Visit my GitHub profile [here](https://github.com/nsharma-uk)
